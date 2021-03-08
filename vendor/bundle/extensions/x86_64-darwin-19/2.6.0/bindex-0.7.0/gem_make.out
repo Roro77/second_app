@@ -1,0 +1,15 @@
+current directory: /Users/rodrigopineda/Desktop/second_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/rodrigopineda/.rvm/rubies/ruby-2.6.0/bin/ruby -I /Users/rodrigopineda/.rvm/rubies/ruby-2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210307-20580-48lqar.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rodrigopineda/Desktop/second_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/rodrigopineda/Desktop/second_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/rodrigopineda/Desktop/second_app/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20210307-20580-s7jymj/skiptrace
